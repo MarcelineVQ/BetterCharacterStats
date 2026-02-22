@@ -1,20 +1,6 @@
-# BetterCharacterStats for Turtle WoW
-This addon shows your character stats that are not present in default UI.<br>
-This version is designed specifically for TurtleWoW and its custom changes.
-## Features
- - Base stats: strength, agility, stamina, intellect, spirit, armor
- - Melee/Ranged: weapon skill, damage, attack speed, attack power, hit, crit
- - Spells: spell power, spell hit, crit, healing power, mana regeneration
- - Schools: your spell power for each school of magic
- - Defenses: armor, defense skill, dodge, parry, block, avoidance
-## Preview
-![preview1](https://github.com/user-attachments/assets/d342aed0-812c-40f9-a4d4-9b33eb48caa3)
+# BetterCharacterStats (Dev Fork)
 
-## Installation
-1. Click Code -> Download ZIP
-2. Extract ZIP file into your Interface/AddOnns folder, remove ``-main``
-3. Restart the game
- 
-## Thanks to original author and all contributors
-Moh, Bennylava, Lexie, Spit, Pepopo
+This is a personal development/testing repository.
 
+For the official source and documentation, see the upstream repository:
+**https://github.com/pepopo978/BetterCharacterStats**
